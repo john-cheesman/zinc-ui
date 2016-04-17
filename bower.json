@@ -1,0 +1,21 @@
+{
+  "name": "zinc-ui",
+  "version": "0.0.0",
+  "homepage": "https://github.com/john-cheesman/zinc-ui",
+  "authors": [
+    "John Cheesman <me@johncheesman.org.uk>"
+  ],
+  "description": "Zinc style library UI component",
+  "main": "_main.scss",
+  "license": "MIT",
+  "keywords": [
+    "scss",
+    "typography",
+    "css",
+    "css3",
+    "ui"
+  ],
+  "ignore": [
+    "lib"
+  ]
+}
